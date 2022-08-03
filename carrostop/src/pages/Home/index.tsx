@@ -11,7 +11,7 @@ const Home = () => {
   return (
     <div className="container">
       <HomeCardCar />
-      <div className="btn-card">
+      <div className="btn-card d-md-flex">
         <button className="btn btn-primary" onClick={handleClick}>
           VER CATÁLOGO
         </button>

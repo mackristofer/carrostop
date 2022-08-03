@@ -4,4 +4,16 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    padding: 0 15px;
+}
+
+.input-container input {
+    border-radius: 10px 0 0 10px;
+}
+
+.input-container button {
+    height: 36px;
+    border-radius: 0 10px 10px 0;
+    display: flex;
+    align-items: center;
 }

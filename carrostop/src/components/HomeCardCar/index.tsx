@@ -6,7 +6,7 @@ const HomeCardCar = () => {
     <div className="main-home-card">
       <div className='row flex-row-reverse'>
         <div className='col-xl-6 pt-5'>
-          <img src={CarHome} alt="CarHome"/>
+          <img src={CarHome} alt="CarHome" className='img-container'/>
         </div>
         <div className='col-xl-6 text-white'>
           <h4>O carro perfeito para você</h4>

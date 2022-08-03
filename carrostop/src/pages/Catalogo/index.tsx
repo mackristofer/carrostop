@@ -5,7 +5,7 @@ const Catalogo = () => {
     return (
         <div className='container'>
             <div className='d-flex mt-3 base-card input-container'>
-                <input type='text' placeholder='Digite sua busca' />
+                <input type='text' placeholder='Digite sua busca' className='form-control'/>
                 <button className='btn btn-primary'>BUSCAR</button>
             </div>
             <div className='row'>
