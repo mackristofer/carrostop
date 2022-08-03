@@ -1,0 +1,9 @@
+.main-nav{
+    min-height: 70px;
+}
+.ul-style {
+  display: flex;
+  font-size: 18px;
+  width: 180px;
+  justify-content: space-between;
+}
